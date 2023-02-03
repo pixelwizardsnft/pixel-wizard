@@ -1,0 +1,20 @@
+{
+    "name": "Merlin the Wizard",
+    "short_name": "PW#2222",
+    "background_color": "#A2BAFF",
+    "theme_color": "#A2BAFF",
+    "display": "fullscreen",
+    "description": "#2222 of 2222 Pixel Wizards: a magical and wise collection of animated, and interactive SVG-based NFTs on Stargaze Zone.",
+    "icons": [
+        {
+            "sizes": "256x256",
+            "src": "https://ipfs.io/ipfs/bafybeiawdykynb2757er3jikvi5yrpmbqrltsulhsli5mij3nfdmhxoity/png256_assets/2222.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "512x512",
+            "src": "https://ipfs.io/ipfs/bafybeiawdykynb2757er3jikvi5yrpmbqrltsulhsli5mij3nfdmhxoity/png512_assets/2222.png",
+            "type": "image/png"
+        }
+    ]
+}

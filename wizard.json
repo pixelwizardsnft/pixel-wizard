@@ -1,0 +1,49 @@
+{
+    "name": "Merlin the Wizard",
+    "image": "2222.svg",
+    "attributes": [
+        {
+            "trait_type": "backdrop",
+            "value": "A2BAFF"
+        },
+        {
+            "trait_type": "character-shadow",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "token",
+            "value": "STARS"
+        },
+        {
+            "trait_type": "staff",
+            "value": "Wooden Staff"
+        },
+        {
+            "trait_type": "skin",
+            "value": "B"
+        },
+        {
+            "trait_type": "robe",
+            "value": "Wizard Robe"
+        },
+        {
+            "trait_type": "beard",
+            "value": "Long White Beard"
+        },
+        {
+            "trait_type": "face",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Wizard Hat"
+        },
+        {
+            "trait_type": "artifact",
+            "value": "Spellbook"
+        }
+    ],
+    "collectionName": "Pixel Wizards",
+    "description": "#2222 of 2222 Pixel Wizards also known as Merlin the Wizard. Made from scalable vector graphics, animated with CSS and made interactive with JavaScript. Merlin the Wizard comes with a particular interest in the STARS crypto token on which he can share his wisdom to you.",
+    "animation_url": "https://ipfs.io/ipfs/bafybeidwo4kicq35xnvmbaynl334uif26phmmk63sxncn76rhkyyo4ll6i/2222.html" 
+}
