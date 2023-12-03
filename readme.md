@@ -35,4 +35,4 @@ wizard.json
 ## Demo
 
 - [IPFS](https://ipfs.io/ipfs/bafybeidwo4kicq35xnvmbaynl334uif26phmmk63sxncn76rhkyyo4ll6i/2222.html)
-- [StargazeZone (NFT Marketplace)](https://www.stargaze.zone/marketplace/stars18d7ver7mmjdt06mz6x0pz09862060kupju75kpka5j0r7huearcsq0gyg0)
+- [StargazeZone (NFT Marketplace)](https://www.stargaze.zone/m/pixelwizards)
